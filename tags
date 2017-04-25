@@ -1,0 +1,23 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+FATAL	thttp.h	25;"	d
+FindPath	thttp.c	/^static int FindPath(int sock,char *path,char *mothod,int*cgi){$/;"	f	file:
+NORMAL	thttp.h	23;"	d
+SIZE	thttp.h	26;"	d
+StartUp	thttp.c	/^int StartUp(char *Ip,char *port)$/;"	f
+WARING	thttp.h	24;"	d
+_THTTP_H	thttp.h	9;"	d
+clear_header	thttp.c	/^void clear_header(int sock ,char*buf){$/;"	f
+do_cgi	thttp.c	/^void do_cgi(int sock ,char *mothod,char *p_string,char*path){$/;"	f
+do_hand	thttp.c	/^int do_hand(int listen){$/;"	f
+echo_error	thttp.c	/^void echo_error(int Ernum)$/;"	f
+echo_www	thttp.c	/^void echo_www(int sock,char *path,int size)$/;"	f
+get_line	thttp.c	/^ssize_t get_line(int sock,char *buf){$/;"	f
+main	hello.c	/^int main()$/;"	f
+main	main.c	/^int main(int argc,char *argv[])$/;"	f
+phandler	thttp.c	/^void  *phandler(void *sock)$/;"	f
+print_log	thttp.c	/^void print_log(const char *str, int lenvel){$/;"	f
